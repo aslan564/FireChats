@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FireMessage</string>
+    <string name="title_people">People</string>
+    <string name="title_my_account">My Account</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="continue_amp_sign_in"><![CDATA[Continue & Sign In]]></string>
+    <string name="signinactivity_image">SignInActivity Image</string>
+    <string name="save">Save</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="my_bio">My Bio</string>
+    <string name="my_name">My Name</string>
+    <string name="aslan_coder">Aslan Coder</string>
+    <string name="fire_your_message">Fire your message</string>
+    <string name="fire_send_image">fire send image</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="item_image">Item image</string>
+</resources>
